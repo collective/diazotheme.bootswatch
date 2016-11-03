@@ -4,6 +4,8 @@ Changelog
 1.0 (unreleased)
 ------------------
 
+- Added more strings classifiers items for the metadata package
+  [macagua]
 - Added improvements about README file
   [macagua]
 - Updated the title value from diazo manifest files
