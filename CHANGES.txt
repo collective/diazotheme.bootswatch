@@ -4,6 +4,8 @@ Changelog
 1.0 (unreleased)
 ------------------
 
+- Added improvements about README file
+  [macagua]
 - Updated the title value from diazo manifest files
   [macagua]
 - Fix commenter image width being broken with IE10 and below.
