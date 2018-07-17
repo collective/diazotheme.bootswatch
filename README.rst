@@ -429,7 +429,6 @@ Bootswatch Theme
 
 The resources of this theme can be reached through
 
-- **Bootswatch Theme**
     ``/++theme++bootswatch``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootswatch`` 
@@ -457,7 +456,6 @@ Bootswatch Amelia
 
 The resources of this theme can be reached through
 
-- **Bootswatch Amelia Theme**
     ``/++theme++amelia``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/amelia`` 
@@ -480,7 +478,6 @@ Bootswatch Amelia Narrow
 
 The resources of this theme can be reached through
 
-- **Bootswatch Amelia Narrow Theme**
     ``/++theme++amelia-narrow``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/amelia-narrow`` 
@@ -500,7 +497,6 @@ Bootswatch Cerulean
 
 The resources of this theme can be reached through
 
-- **Bootswatch Cerulean Theme**
     ``/++theme++cerulean``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/cerulean`` 
@@ -523,7 +519,6 @@ Bootswatch Cerulean Narrow
 
 The resources of this theme can be reached through
 
-- **Bootswatch Cerulean Narrow Theme**
     ``/++theme++cerulean-narrow``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/cerulean-narrow`` 
@@ -543,7 +538,6 @@ Bootswatch Cosmo
 
 The resources of this theme can be reached through
 
-- **Bootswatch Cosmo Theme**
     ``/++theme++cosmo``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/cosmo`` 
@@ -566,7 +560,6 @@ Bootswatch Cosmo Narrow
 
 The resources of this theme can be reached through
 
-- **Bootswatch Cosmo Narrow Theme**
     ``/++theme++cosmo-narrow``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/cosmo-narrow`` 
@@ -586,7 +579,6 @@ Bootswatch Cyborg
 
 The resources of this theme can be reached through
 
-- **Bootswatch Cyborg Theme**
     ``/++theme++cyborg``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/cyborg`` 
@@ -609,7 +601,6 @@ Bootswatch Cyborg Narrow
 
 The resources of this theme can be reached through
 
-- **Bootswatch Cyborg Narrow Theme**
     ``/++theme++cyborg-narrow``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/cyborg-narrow`` 
@@ -629,7 +620,6 @@ Bootswatch Journal
 
 The resources of this theme can be reached through
 
-- **Bootswatch Journal Theme**
     ``/++theme++journal``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/journal`` 
@@ -652,7 +642,6 @@ Bootswatch Journal Narrow
 
 The resources of this theme can be reached through
 
-- **Bootswatch Journal Narrow Theme**
     ``/++theme++journal-narrow``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/journal-narrow`` 
@@ -672,7 +661,6 @@ Bootswatch Readable
 
 The resources of this theme can be reached through
 
-- **Bootswatch Readable Theme**
     ``/++theme++readable``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/readable`` 
@@ -695,7 +683,6 @@ Bootswatch Readable Narrow
 
 The resources of this theme can be reached through
 
-- **Bootswatch Readable Narrow Theme**
     ``/++theme++readable-narrow``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/readable-narrow`` 
@@ -715,7 +702,6 @@ Bootswatch Simplex
 
 The resources of this theme can be reached through
 
-- **Bootswatch Simplex Theme**
     ``/++theme++simplex``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/simplex`` 
@@ -738,7 +724,6 @@ Bootswatch Simplex Narrow
 
 The resources of this theme can be reached through
 
-- **Bootswatch Simplex Narrow Theme**
     ``/++theme++simplex-narrow``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/simplex-narrow`` 
@@ -758,7 +743,6 @@ Bootswatch Slate
 
 The resources of this theme can be reached through
 
-- **Bootswatch Slate Theme**
     ``/++theme++slate``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/slate`` 
@@ -781,7 +765,6 @@ Bootswatch Slate Narrow
 
 The resources of this theme can be reached through
 
-- **Bootswatch Slate Narrow Theme**
     ``/++theme++slate-narrow``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/slate-narrow`` 
@@ -801,7 +784,6 @@ Bootswatch Spacelab
 
 The resources of this theme can be reached through
 
-- **Bootswatch Spacelab Theme**
     ``/++theme++spacelab``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/spacelab`` 
@@ -824,7 +806,6 @@ Bootswatch Spacelab Narrow
 
 The resources of this theme can be reached through
 
-- **Bootswatch Spacelab Narrow Theme**
     ``/++theme++spacelab-narrow``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/spacelab-narrow`` 
@@ -844,7 +825,6 @@ Bootswatch Spruce
 
 The resources of this theme can be reached through
 
-- **Bootswatch Spruce Theme**
     ``/++theme++spruce``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/spruce`` 
@@ -867,7 +847,6 @@ Bootswatch Spruce Narrow
 
 The resources of this theme can be reached through
 
-- **Bootswatch Spruce Narrow Theme**
     ``/++theme++spruce-narrow``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/spruce-narrow`` 
@@ -887,7 +866,6 @@ Bootswatch Superhero
 
 The resources of this theme can be reached through
 
-- **Bootswatch Superhero Theme**
     ``/++theme++superhero``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/superhero`` 
@@ -910,7 +888,6 @@ Bootswatch Superhero Narrow
 
 The resources of this theme can be reached through
 
-- **Bootswatch Superhero Narrow Theme**
     ``/++theme++superhero-narrow``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/superhero-narrow`` 
@@ -930,7 +907,6 @@ Bootswatch United
 
 The resources of this theme can be reached through
 
-- **Bootswatch United Theme**
     ``/++theme++united``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/united`` 
@@ -953,7 +929,6 @@ Bootswatch United Narrow
 
 The resources of this theme can be reached through
 
-- **Bootswatch United Narrow Theme**
     ``/++theme++united-narrow``
 
 There are placed at ``diazotheme.bootswatch/diazotheme/bootswatch/bootstrap/united-narrow`` 
