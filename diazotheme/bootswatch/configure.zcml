@@ -3,7 +3,7 @@
     xmlns:five="http://namespaces.zope.org/five"
     xmlns:plone="http://namespaces.plone.org/plone"
     xmlns:i18n="http://namespaces.zope.org/i18n"
-    i18n_domain="diazotheme.bootstrap">
+    i18n_domain="diazotheme.bootswatch">
 
   <five:registerPackage package="." />
 
