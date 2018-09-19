@@ -16,7 +16,6 @@ long_description = (
 
 setup(name='diazotheme.bootswatch',
     version=version,
-    description="",
     description="The Diazo Themes implementation for Bootswatch Templates",
     long_description=long_description,
     classifiers=[
